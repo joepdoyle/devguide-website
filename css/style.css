@@ -70,7 +70,7 @@ header .nav-fixed {
 .hero {
     height: 600px;
     /* .images/header.jpg */
-    background-image: url("../images/header.jpg");
+    background-image: url("https://joepdoyle.github.io/devguide-website/images/header.jpg");
     background-size: cover;
     background-position: center;
     color: #fff;
