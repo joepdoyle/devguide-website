@@ -69,6 +69,7 @@ header .nav-fixed {
 /* Hero */
 .hero {
     height: 600px;
+    /* .images/header.jpg */
     background-image: url("./images/header.jpg");
     background-size: cover;
     background-position: center;
